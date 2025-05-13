@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook hidden files
+*.nbconvert.ipynb
+
+# NLTK data (optional)
+nltk_data/
+
+# VSCode settings
+.vscode/
+
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset files (optional)
+*.csv
